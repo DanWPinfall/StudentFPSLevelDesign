@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9049151a9d31e24b9bfd15cf725eb52, type: 3}
+  m_Name: TestLevel
+  m_EditorClassIdentifier: 
+  sceneName: SampleScene
+  displayName: Ipswich Skyline
+  creatorName: By Daniel Wiltshire
+  levelPrefab: {fileID: 5216035974010409894, guid: d11ac8cb4e06d8d47a307d757c741143, type: 3}
+  previewScale: {x: 0.25, y: 0.25, z: 0.25}
